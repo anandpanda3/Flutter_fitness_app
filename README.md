@@ -17,15 +17,6 @@
 <img width="200" src="https://i.pinimg.com/originals/52/08/76/52087695529a2ca85c646660d1e63dfd.jpg"/>
 </p>
 
-## Knowledges
-This knowledges are basic for flutter developers (maybe all developers...) but was my first 'project' made in flutter so... starting with basic :P
-
-- Flutter structure and mentality to make a new screen;
-- Use and create custom components;
-- Install and use packages (ex.: progress bar or charts);
-- Conditional render based on screen orientation;
-
-> I learned to NEVER use tab navigation inside tab navigation, horrible to develop and interact with swipe using this "solution" - NEVER DO THIS!
 
 
 ## How to use
